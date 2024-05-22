@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Diagnosis of COVID-19 from X-rays Using Combined CNN-RNN Architecture with Transfer Learning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-10-01-covid19-cnn-rnn
+excerpt: 'Combating the COVID-19 pandemic has emerged as one of the most promising issues in global healthcare. Accurate and fast diagnosis of COVID-19 cases is required for the right medical treatment to control this pandemic. Chest radiography imaging techniques are more effective than the reverse-transcription polymerase chain reaction (RT-PCR) method in detecting coronavirus. Due to the limited availability of medical images, transfer learning is better suited to classify patterns in medical images. This paper presents a combined architecture of convolutional neural network (CNN) and recurrent neural network (RNN) to diagnose COVID-19 patients from chest X-rays. The deep transfer techniques used in this experiment are VGG19, DenseNet121, InceptionV3, and Inception-ResNetV2, where CNN is used to extract complex features from samples and classify them using RNN. In our experiments, the VGG19-RNN architecture outperformed all other networks in terms of accuracy. Finally, decision-making regions of images were visualized using gradient-weighted class activation mapping (Grad-CAM). The system achieved promising results compared to other existing systems and might be validated in the future when more samples would be available. The experiment demonstrated a good alternative method to diagnose COVID-19 for medical staff. All the data used during the study are openly available from the Mendeley data repository at https://data.mendeley.com/datasets/mxc6vb7svm. For further research, we have made the source code publicly available at https://github.com/Asraf047/COVID19-CNN-RNN.'
+date: 2022-10-01
+venue: 'BenchCouncil Transactions on Benchmarks, Standards and Evaluations'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf](https://www.sciencedirect.com/science/article/pii/S2772485923000054'
+citation: 'Md. Milon Islam, Md. Zabirul Islam, Amanullah Asraf, Mabrook S. Al-Rakhami, Ali Hassan Sodhro, Weiping Ding. (2022). &quot;Diagnosis of COVID-19 from X-rays Using Combined CNN-RNN Architecture with Transfer Learning.&quot; <i>BenchCouncil Transactions on Benchmarks, Standards and Evaluations</i>, Volume 2, Issue 4, 100088.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
