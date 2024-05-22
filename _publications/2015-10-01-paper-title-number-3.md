@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Deep Learning Applications to Combat Novel Coronavirus (COVID-19) Pandemic"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2020-01-01-deep-learning-covid19
+excerpt: 'During this global pandemic, researchers around the world are trying to find out innovative technology for a smart healthcare system to combat coronavirus. The evidence of deep learning applications on the past epidemic inspires the experts by giving a new direction to control this outbreak. The aim of this paper is to discuss the contributions of deep learning at several scales including medical imaging, disease tracing, analysis of protein structure, drug discovery, and virus severity and infectivity to control the ongoing outbreak. A progressive search of the database related to the applications of deep learning was executed on COVID-19. Further, a comprehensive review is done using selective information by assessing the different perspectives of deep learning. This paper attempts to explore and discuss the overall applications of deep learning on multiple dimensions to control novel coronavirus (COVID-19). Though various studies are conducted using deep learning algorithms, there are still some constraints and challenges while applying for real-world problems. The ongoing progress in deep learning contributes to handle coronavirus infection and plays an effective role to develop appropriate solutions. It is expected that this paper would be a great help for the researchers who would like to contribute to the development of remedies for this current pandemic in this area.'
+date: 2020-01-01
+venue: 'SN COMPUTER SCIENCE'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://link.springer.com/article/10.1007/s42979-020-00383-w'
+citation: 'Amanullah Asraf, Md. Zabirul Islam, Md. Rezwanul Haque, Md. Milon Islam. (2020). &quot;Deep Learning Applications to Combat Novel Coronavirus (COVID-19) Pandemic.&quot; <i>SN COMPUTER SCIENCE</i>, 1(363).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
